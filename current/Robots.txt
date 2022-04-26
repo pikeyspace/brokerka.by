@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: http://brokerka.by/sitemap.xml

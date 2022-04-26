@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/icomoon.eot?gji82b');
+    src: url('../fonts/icomoon.eot?gji82b#iefix') format('embedded-opentype'), url('../fonts/icomoon.ttf?gji82b') format('truetype'), url('../fonts/icomoon.woff?gji82b') format('woff'), url('../fonts/icomoon.svg?gji82b#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    /* speak: never; */
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    color: #bda106;
+    font-size: 16px;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"],
+[class*=" icon-"] a {
+    cursor: pointer;
+}
+
+.icon-viber:before {
+    content: "\e900";
+}
+
+.icon-phone:before {
+    content: "\e942";
+}
+
+.icon-envelop:before {
+    content: "\e945";
+}
+
+.icon-location:before {
+    content: "\e947";
+}
+
+.icon-briefcase:before {
+    content: "\e9ae";
+}
+
+.icon-checkmark:before {
+    position: absolute;
+    content: "\ea10";
+    font-size: 18px;
+    top: 30%;
+    left: 30%;
+}
+
+.icon-circle-right:before {
+    content: "\ea42";
+}
+
+.icon-circle-left:before {
+    content: "\ea43";
+}
+
+.icon-whatsapp:before {
+    content: "\ea93";
+}
+
+.icon-telegram:before {
+    content: "\ea95";
+}
+
+.icon-skype:before {
+    content: "\eac5";
+}
